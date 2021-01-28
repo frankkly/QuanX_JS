@@ -1,0 +1,2 @@
+# QuanX_JS
+js
